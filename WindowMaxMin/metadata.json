@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mkenneththomas@gmail.com",
+                "Name": "Mitchell Thomas"
+            }
+        ],
+        "Description": "Makes F18 maximize window if not maximized, makes F17 unmaximize if maximized or minimize if unmaximized (customizable in keyboard shortcuts)",
+        "Icon": "preferences-system-windows-script-test",
+        "Id": "WindowMaxMin",
+        "License": "GPL",
+        "Name": "Window Max / Min Shortcuts"
+    },
+    "X-Plasma-API": "javascript"
+}
